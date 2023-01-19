@@ -1,3 +1,7 @@
+//Complexity
+//Time complexity: O(n)
+//Space complexity: O(1)
+
 class Solution {
     public int pivotIndex(int[] nums) {
       if(nums.length == 0) return - 1;
